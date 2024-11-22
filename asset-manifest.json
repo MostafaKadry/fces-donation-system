@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fces-donation-system/static/css/main.c34370d1.css",
-    "main.js": "/fces-donation-system/static/js/main.98f34cf0.js",
+    "main.js": "/fces-donation-system/static/js/main.2f57809e.js",
     "static/media/tatowa2.jpg": "/fces-donation-system/static/media/tatowa2.6b424d0b271780179588.jpg",
     "static/media/device.jpg": "/fces-donation-system/static/media/device.1adbb2b9ac1ec29ed1f7.jpg",
     "static/media/fces.jpeg": "/fces-donation-system/static/media/fces.4937c796e9741448109c.jpeg",
@@ -39,10 +39,10 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/fces-donation-system/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/fces-donation-system/index.html",
     "main.c34370d1.css.map": "/fces-donation-system/static/css/main.c34370d1.css.map",
-    "main.98f34cf0.js.map": "/fces-donation-system/static/js/main.98f34cf0.js.map"
+    "main.2f57809e.js.map": "/fces-donation-system/static/js/main.2f57809e.js.map"
   },
   "entrypoints": [
     "static/css/main.c34370d1.css",
-    "static/js/main.98f34cf0.js"
+    "static/js/main.2f57809e.js"
   ]
 }
